@@ -1,0 +1,13 @@
+# ide
+/.idea
+/.settings
+/.project
+/.classpath
+*.iml
+
+# log files
+logs/*.log
+npm-debug.log
+
+# deps
+node_modules
